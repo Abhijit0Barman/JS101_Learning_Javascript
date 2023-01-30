@@ -1,0 +1,14 @@
+let report="🆁🅴🅿🅾🆁🆃 🅲🅰🆁🅳";
+let name="🄽🄰🄼🄴: Abhijit Barman";
+let school="🅂🄲🄷🄾🄾🄻: MASAI";
+let grade="🄶🅁🄰🄳🄴: A";
+let section="🅂🄴🄲🅃🄸🄾🄽: FW26";
+let roll="🅁🄾🄻🄻 🄽🄾: 1006";
+let english="e̶n̶g̶l̶i̶s̶h̶ 50 |",computer="𝕔𝕠𝕞𝕡𝕦𝕥𝕖𝕣: 50 |",dsa="𝖉𝖘𝖆: 50";
+console.log(report);
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(roll);
+console.log(english,computer,dsa);
